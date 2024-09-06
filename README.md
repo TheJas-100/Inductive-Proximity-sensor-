@@ -1,6 +1,8 @@
 # Inductive-Proximity-sensor-
 Inductive Proximity Sensor capable of detecting Metal objects  
-Aim : To design and implement inductive proximity sensor 
+Aim : To design and implement inductive proximity sensor  
+     The inductive sensor works on the principle of Faraday's Law and Lenz's Law. according to Faraday when the current passes through the conductor the electromagnatic field is created (current Passed to coil) and according to Lenz's law the metal object p;aced in magnetic field will produce small currebt called eddy current, this eddy current further produce electric filed whic opposes the filed produced by the coil. with respect to this trigger circuit is designed to idicate preasence and absence of the metal object.   
+
 ![image](https://github.com/user-attachments/assets/77fed229-2c08-488a-82ff-f8525f7f83e8)   
 
 # 1 Hardware requirements:  
